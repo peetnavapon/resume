@@ -85,7 +85,7 @@
 
 	<section>
 		<Hideable>
-			<h2 class="text-2xl print:text-4xl uppercase text-left">Work Experience</h2>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">Experience</h2>
 			<hr />
 
 			{#each workExperiences as exp}
